@@ -4,15 +4,20 @@ Software engineering student at **Politeknik Astra** (Applied Software Engineeri
 I build business web applications, database-backed management systems, and AI-integrated
 features — React with .NET 8 on one side, PHP/Laravel with MySQL on the other.
 
-**Toolkit** — TypeScript · React · React Native (Expo) · C# / .NET 8 · PHP / Laravel · Python · PyTorch · MySQL · Docker · Git
+**Toolkit** — TypeScript · React · React Native (Expo) · C# / .NET 8 · PHP / Laravel · Python · Django · PyTorch · MySQL · Docker · Git
 
 **Currently** — retrieval-augmented LLM tuning for an AI-assisted assessment platform, where a
 lecturer reviews the model's reasoning before an answer counts as graded. On the research side,
 comparing MobileNetV2 and ViT against Grad-CAM localisation maps for melanoma screening.
 
-**Selected work** (pinned below) — an energy-monitoring dashboard built on Django and Docker for
-a research grant, an Expo/React Native client for a melanoma-screening model, a PyTorch batik
-classifier comparing CNN and ResNet checkpoints, an admin reporting dashboard, and an LLM
-assessment interface.
+**Selected work** — pinned below. Several live on team accounts rather than mine; where that is
+the case I was one of the main contributors, and the commit history is the honest record:
+
+- **AI-assisted assessment platform** — Python service and Docker stack, LLM/RAG tuning
+- **University sidang application system** — PHP, MySQL, role-based approval flow
+- **Energy-monitoring dashboard** for a research grant — Django 5, Docker
+- **Work-management and attendance app** — Laravel, Blade, MySQL stored procedures
+- **Melanoma-screening mobile client** — Expo / React Native
+- **Administrative reporting dashboard** — React 19, Recharts
 
 <sub>Everything else here is coursework, kept public for reference.</sub>
